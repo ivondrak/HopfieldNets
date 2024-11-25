@@ -1,0 +1,6 @@
+name: my-binder-env
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pip:
